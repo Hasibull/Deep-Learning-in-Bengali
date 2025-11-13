@@ -3,3 +3,5 @@
 আমরা প্রায় সবাই Deep Learning, Machine বা Artificial Intelligence এই শব্দগুলোর সাথে পরিচিত, হয়তো কোন বই বা YouTube ভিডিও থেকে। কিন্তু এগুলোর কোনটা আসলে কি? নিচের এই ছবিটা থেকে আমরা একটা বিস্তর ধারণা নিতে পারি!
 
 <p align="center"><img src="https://github.com/Hasibull/Deep-Learning-in-Bengali/blob/main/images/Classification-of-artificial-intelligence.jpg" alt="AI-classification" width="400" align="center"></p>
+
+এখানে আমরা দেখতে পাচ্ছি Machine Learning (ML) হচ্ছে Artificial Intelligence (AI) এর একটি Sub-field আবার Deep Learning (DL) হচ্ছে Machine Learning (ML) এর Sub-field
