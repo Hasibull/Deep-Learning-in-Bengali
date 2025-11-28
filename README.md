@@ -4,4 +4,16 @@
 
 <p align="center"><img src="https://github.com/Hasibull/Deep-Learning-in-Bengali/blob/main/images/Classification-of-artificial-intelligence.jpg" alt="AI-classification" width="400" align="center"></p>
 
-এখানে আমরা দেখতে পাচ্ছি Machine Learning (ML) হচ্ছে Artificial Intelligence (AI) এর একটি Sub-field আবার Deep Learning (DL) হচ্ছে Machine Learning (ML) এর Sub-field
+এখানে আমরা দেখতে পাচ্ছি Machine Learning (ML) হচ্ছে Artificial Intelligence (AI) এর একটি Sub-field আবার Deep Learning (DL) হচ্ছে Machine Learning (ML) এর Sub-field।
+
+Deep Learning এ মূলত আমরা Artificial Neural Network (ANN) নামের এক ধরণের অ্যালগরিদম ব্যবহার করি, যেটা মানুষের মস্তিষ্ক (brain)-এর মতো কাজ করে! Deep Learning কে আমরা সহজ ভাবে বলতে গেলে এটিও একটি Unsupervised Machine Learning টেকনিক!
+
+```
+🤔 Supervised আর Unsupervised আবার কি?
+
+Supervised ML: যেখানে ইনপুট ফিচার গুলোর কোনটি কি নির্দেশ করে এবং আউটপুট কি হবে তা বলে দেওয়া হয় ML অ্যালগরিদম কে।
+
+Unsupervised ML: সহজ কথাই Supervised এর উল্টা! যেখানে ইনপুট ফিচার গুলোর কোনটি কি নির্দেশ করে এবং আউটপুট কি হবে তার কিছুই বলে দেওয়া হয় না ML অ্যালগরিদম কে।
+```
+
+<p align="center"><img src="https://github.com/Hasibull/Deep-Learning-in-Bengali/blob/main/images/Classification-of-artificial-intelligence.jpg" alt="AI-classification" width="400" align="center"></p>
