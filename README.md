@@ -2,7 +2,7 @@
 
 আমরা প্রায় সবাই Deep Learning, Machine বা Artificial Intelligence এই শব্দগুলোর সাথে পরিচিত, হয়তো কোন বই বা YouTube ভিডিও থেকে। কিন্তু এগুলোর কোনটা আসলে কি? নিচের এই ছবিটা থেকে আমরা একটা বিস্তর ধারণা নিতে পারি!
 
-<p align="center"><img src="https://github.com/Hasibull/Deep-Learning-in-Bengali/blob/main/images/Classification-of-artificial-intelligence.jpg" alt="AI-classification" width="400" align="center"></p>
+<p align="center"><img src="images/Classification-of-artificial-intelligence.jpg" alt="AI-classification" width="400" align="center"></p>
 
 এখানে আমরা দেখতে পাচ্ছি Machine Learning (ML) হচ্ছে Artificial Intelligence (AI) এর একটি Sub-field আবার Deep Learning (DL) হচ্ছে Machine Learning (ML) এর Sub-field।
 
@@ -15,5 +15,6 @@ Supervised ML: যেখানে ইনপুট ফিচার গুলো�
 
 Unsupervised ML: সহজ কথাই Supervised এর উল্টা! যেখানে ইনপুট ফিচার গুলোর কোনটি কি নির্দেশ করে এবং আউটপুট কি হবে তার কিছুই বলে দেওয়া হয় না ML অ্যালগরিদম কে।
 ```
+নিচের ছবিটি থেকে Supervised ও Unsupervised Model কিভাবে কাজ করে তার একটা পরিষ্কার ধারণা পাওয়া যায়।
 
-<p align="center"><img src="https://github.com/Hasibull/Deep-Learning-in-Bengali/blob/main/images/Classification-of-artificial-intelligence.jpg" alt="AI-classification" width="400" align="center"></p>
+<p align="center"><img src="images/supervised-vs-unsupervised.jpg" alt="AI-classification" width="400" align="center"></p>
