@@ -32,3 +32,7 @@ Equation আকারে তা নিচের মতো করে দেখা
 $$
 y = f\left(\sum_{i=1}^{n} w_i x_i + b\right)
 $$
+
+নিচের ছবিটি উপরের equation টাকেই তুলে ধরে-
+
+<p align="center"><img src="images/ArtificalNeuralNetwork.png" alt="Neuron" width="600" align="center"></p>
